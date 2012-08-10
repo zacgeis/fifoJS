@@ -4,5 +4,15 @@
 	"description": "Unix named pipes for node",
 	"keywords": ["ipc", "pipe"],
 	"author": "Zach Geis <zacgeis@gmail.com>",
-	"main": "fifoJS"
+	"main": "./fifoJS",
+	"repository": {
+       "type": "git",
+       "url": "https://github.com/zacgeis/fifoJS.git" 
+   },
+   "dependencies" : {
+    "node-gyp"   :  "*"
+   },
+   "scripts": {
+       "install": "node-gyp configure build"
+   }
 }
