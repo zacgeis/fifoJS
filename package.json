@@ -1,5 +1,5 @@
 {
-	"name": "fifoJS",
+	"name": "fifojs",
 	"version": "0.0.1",
 	"description": "Unix named pipes for node",
 	"keywords": ["ipc", "pipe"],
@@ -8,9 +8,6 @@
 	"repository": {
        "type": "git",
        "url": "https://github.com/zacgeis/fifoJS.git" 
-   },
-   "dependencies" : {
-    "node-gyp"   :  "*"
    },
    "scripts": {
        "install": "node-gyp configure build"
