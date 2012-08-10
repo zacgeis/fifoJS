@@ -1,0 +1,8 @@
+{
+	"name": "fifoJS",
+	"version": "0.0.1",
+	"description": "Unix named pipes for node",
+	"keywords": ["ipc", "pipe"],
+	"author": "Zach Geis <zacgeis@gmail.com>",
+	"main": "fifoJS"
+}
