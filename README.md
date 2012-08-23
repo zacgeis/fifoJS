@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/zacgeis/fifoJS.png)](http://travis-ci.org/zacgeis/fifoJS)
 fifoJS
 ======
 
